@@ -1,5 +1,6 @@
 package linked_list.singly_linked_list;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 
 public class SingleyLinkedList {
@@ -56,7 +57,6 @@ public class SingleyLinkedList {
         }
         System.out.println("NULL");
     }
-
 
     public static void main(String[] args) {
         SingleyLinkedList sl = new SingleyLinkedList();
